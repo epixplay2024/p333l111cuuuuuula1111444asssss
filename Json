@@ -1,0 +1,772 @@
+{
+   "movies":[
+      {
+         "tmdb_id":"550988",
+         "name":"Free Guy",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://google.com",
+               "contentHost":"DoodStream",
+               "contentSize":"800 MB"
+            },
+            {
+               "quality":"BluRay",
+               "url":"https://facebook.com",
+               "contentHost":"Private",
+               "contentSize":"1000 MB"
+            }
+         ]
+      },
+       {
+         "tmdb_id":"848326",
+         "name":"Rebel Moon (Parte uno): La niña del fuego",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://wishembed.pro/e/2yigtcjzsthf",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://filemoon.sx/e/7hxuxci8hqgz",
+               "contentHost":"LATINO",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"520758",
+         "name":"Chicken Run: El amanecer del Nugget",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://wishembed.pro/e/ar44t5p0gwfu",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"1071215",
+         "name":"Black Friday",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamsito.com/video/tt1448754/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 2023"
+            }
+         ]
+      },
+        {
+         "tmdb_id":"1029575",
+         "name":"El Plan Familia",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamwish.to/e/j8mxxebnrjon",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"609681",
+         "name":"The Marvels",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FnES8HUT%2FZLnBtXY94g%2Ba%2FwoCy8C5YaQPhLBWz%2B3M%2BoPKk4G72WHdawgnT7NSjJkQLdnqvhv6KtdbNfJ5%2BvMTRWIuXGPGtgdV4beyyo3up9dxjUUdRuKsV&image=https://static.esplay.one/movie/gallery/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"695721",
+         "name":"Los juegos del hambre: La balada de pájaros cantores y serpientes",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamsito.com/video/tt10545296/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"299054",
+         "name":"Los indestructibles 4",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamwish.to/e/83b5a0gvumvh",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://42464242.xyz/video/tt3291150/",
+               "contentHost":"LATINO",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"951491",
+         "name":"Saw X",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19Tbj7euAM5a0oWTDWSl3y1uGfqF74upWr4p%2FPHNB5Wbk21xrL%2F0DrDX7NrP%2BaEOwkmtZxbJnooWX98kvhqSA%2Fkd%2FC8z7UBu5V2BrTzYxuk%2F9%2Fw5pBqf9ek&image=https://static.esplay.one/movie/gallery/original/9b3uxqcjkmay20EBZZj1KVow0r5.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://streamwish.to/e/0b6i3023f7mq",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"968051",
+         "name":"La Monja 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18Pwf0m7i6QpC1cszsUPuu6bruX2K8rKVpnsYDDSoeCfSzUIUG9J7QAmViZ3lmiivsRfcS8pHgQ74UC4AUo53bFtIx%2FP3vVns2Rcz3AjatPV7%2FBqZPRXg9r&image=https://static.esplay.one/movie/gallery/original/53z2fXEKfnNg2uSOPss2unPBGX1.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"830764",
+         "name":"Cementerio de Mascotas: El Origen",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F3uf%2FaYoXYYN1Y8KXrdAb0HyHNp6yyKKSpSsdSFIFVbQYsFNs5yEm2QSRUQrRDLNVwTLuqxvoozWSvSDOYeOqVYMhTjNlvI2FU6M5eIb4aQB1VOHL1PqvG&image=https://static.esplay.one/movie/gallery/original/FYIdCS39yn0NGFDFlRUXUmRxRk.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"926393",
+         "name":"The Equalizer 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FDPD%2BrUjG80Wr9%2B1k0KuPCT1FzxWf9HUb9dyiG9wzQJ12Y%2FmbaDC1F8oUTlnXfz9DuNJbH%2FCO1uptevDwlcp6JF9uZNmHlUSuWPVn5trTEWum0BgPAd98i&image=https://static.esplay.one/movie/gallery/original/lNxR7SmtFxFUfA7n9qtzuaIYvoM.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"346698",
+         "name":"Barbie",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BFvvpTxvG9RxrhCv20lm9%2FO0glju35FIrX8CTImsycvv7rAKxSTIEL&image=https://static.esplay.one/movie/gallery/original/tTfnd2VrlaZJSBD9HUbtSF3CqPJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"635910",
+         "name":"Drácula: Mar de sangre",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX198f65DUs2qKRJAdqrtlgQFThfOZRPxNEPjv2gxZ186Q5xP8iU9LDolTjxc4%2Fl8kmYcn9AVO2qZo3YBc%2BTPV1vJimk7cXr3mHiSuq6oAzQFoD3CtcXB3ANX&image=https://static.esplay.one/movie/gallery/original/nUixrAu0tLn9PwfN7iaBoSAiHkm.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"832502",
+         "name":"EL REY MONO",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64df964f87a51d65ef5b44d4",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"724209",
+         "name":"Agente Stone",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/26QKmkizuTeD/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"930094",
+         "name":"Rojo, blanco y sangre azul",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64d637e66bc27961da4a2454",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"457332",
+         "name":"Golpe oculto",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18Hv2TY4wiwULOfkSDvfXcB5RsKJZ4gvNstgjpOvSeBeN5BiDuJyz%2Bd&image=https://static.esplay.one/movie/gallery/original/dWvDlTkt9VEGCDww6IzNRgm8fRQ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+        {
+         "tmdb_id":"872585",
+         "name":"Oppenheimer",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19eWY5Agx27odudpvzST8vdDQJhNUkNS5GQZWhPNADJHXlGbRwkX1XM&image=https://static.esplay.one/movie/gallery/original/xcXALwBjdHIjrESpGVhghqj8fGT.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"614930",
+         "name":"Tortugas Ninja: Caos mutante",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64d528eee3732353ee6d2d46",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+       {
+         "tmdb_id":"1040148",
+         "name":"Ruby: Aventuras de una kraken adolescente",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2B5dgfXw5UtvtxE%2F5a4svjjVVkhyxl3BOSlNFfSc95McUwTBsec6zwV&image=https://static.esplay.one/movie/gallery/original/ioCuhiUs0SW5UgembG0UiQZWPLY.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"575264",
+         "name":"Misión: Imposible - Sentencia mortal parte uno",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FLYcF1X8d8kspsKFroDa3u7jCTVqfqpPlAxIfjILgRLE85%2FCnDwwQz&image=https://static.esplay.one/movie/gallery/original/628Dep6AxEtDxjZoGP78TsOxYbK.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"335977",
+         "name":"Indiana Jones y el dial del destino",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19ZIP%2BXTk7Tji%2B6QPamSDapGsHDwVGwmZYzLVapAUsz40VERRiunmX2&image=https://static.esplay.one/movie/gallery/original/35z8hWuzfFUZQaYog8E9LsXW3iI.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+            {
+         "tmdb_id":"455476",
+         "name":"Los Caballeros del Zodiaco: Saint Seiya - El inicio",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F%2FmBEBOenDiAvHjsw13K093yeBs%2B%2FAzfTBeVtF8g9kBK5ZxaOko5%2BK&image=https://static.esplay.one/movie/gallery/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"976573",
+         "name":"Elemental",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18TQYUl7SZlxiIZA%2Be0cXAzmS9aH7L6nhgAyVQI68tzWmdm%2BBiMQqEN&image=https://static.esplay.one/movie/gallery/original/7Yuf6j6N76SfqRWqT0I0ZUjICc2.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"961323",
+         "name":"Nimona",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/41gXC9uoYoTd/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+       {
+         "tmdb_id":"697843",
+         "name":"Extraction 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/N3TXEotlCpBW565TGf6hGf5hu7yhNh6GrEhItDF567NG54G77Yh645gh67/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BcVOYS51Mb9OiMRXMstocHV3%2FXoLTNn4%2BGDqltr2zS8ZEKhtMzzj1Z&image=https://static.esplay.one/movie/gallery/original/wYYVBBK3O8sb7J4WxkRx1bI7Q8c.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"CASTELLANO VIP"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"812225",
+         "name":"Black Clover: La espada del rey mago",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19HGLygqaUP62%2BotzY0rayExpq6FDZhpgnZRt82HBi7vT8sBP08tw8G&image=https://static.esplay.one/movie/gallery/original/eUNg7wZ8HoQW0QxFjrfw3ioAkap.webp",
+               "contentHost":"SUB ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BA5RYHkkw7nfCx10xJi56xXdQTdCvHk1tagBkoBuNE1FS%2FZeWKvMB5&image=https://static.esplay.one/movie/gallery/original/eUNg7wZ8HoQW0QxFjrfw3ioAkap.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"2109",
+         "name":"Una Pareja Explosiva",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://api.mycdn.moe/video/tt0120812/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjU5ODc=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"447277",
+         "name":"La Sirenita",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FwO0jrKIvtq4xnupfFmMFX9AqLTxmDdrRB7dsj3hSEpDNN%2BnW18N2Q&image=https://static.esplay.one/movie/gallery/original/hJoMSAltRx5xvlAXvKyDdugjucJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MTY4Nzc0&option=castell",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"298618",
+         "name":"The Flash",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18eJ7x7jaJxWLyZnaLsnMTjsXgTmaP0fVqHYwpIXe8KcPmvqeA%2Be%2B8T&image=https://static.esplay.one/movie/gallery/original/fEe2csLOUsTyaLdCccVJfFeJzhx.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"493529",
+         "name":"Dungeons & Dragons: Honor entre ladrones",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FIf5fG%2FjZn%2FXRF8d7mllFMl%2FRtE78yhzxipZAg%2FGlG%2F1yvpeshPLz0&image=https://static.esplay.one/movie/gallery/original/qmEKe0AEsns2WXinbkGxlCxlTHq.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZUwlLXUBANUzRurQmEJ0/J8ZwPwvoqKBnIqwA417LEjiGT/qF3CCVHc50UvNmumqteyeBgquUKaoqmCtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"420808",
+         "name":"Peter Pan & Wendy",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19f7U2ouKnr95oMv6XtWqyu4FhVfbW0b%2BjrS%2F6QZBScGgYu%2BbfvZcyj&image=https://static.esplay.one/movie/gallery/original/ov8dy3tyXNwbwxxObtoRinLki3v.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZU0jKnULANVlF+/dwRAn/Z8fw/pxoqLUkIywWNR5I0jiGGq8FirQUic610vNmv27t/qeBgqtWq2ipGKtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"667538",
+         "name":"Transformadores: El origen de las bestias",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX194HwsupZB%2FGu0LITwry7jVL60oyxyyPv8igQrwuKk5EDS9upfxMOlp&image=https://static.esplay.one/movie/gallery/original/woJbg7ZqidhpvqFGGMRhWQNoxwa.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://43598303.xyz/video/tt5090568/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"713704",
+         "name":"Posesión infernal: El despertar",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2Fdf69a%2FmSeu1sosLOybxsOsuphiDDb5khqCQFz1pOa%2BA27%2F2XTawZf&image=https://static.esplay.one/movie/gallery/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"569094",
+         "name":"Spider-Man: Across the Spider-Verse",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FGqseGDwkkVnYUEtPT7U7vOZcQl433XUDwg%2FcmGuFd1EMoei0nxR0i&image=https://static.esplay.one/movie/gallery/original/e59QkHTueqRelzq0thn5deCEKIG.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"890771",
+         "name":"The Black Demon",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2B5PyqEd9rwq%2F3Zu3MZ6jS0NTWQiSrp4w1oHTB7rmCPxFe%2BmPuOJS1F&image=https://static.esplay.one/movie/gallery/original/9t0tJXcOdWwwxmGTk112HGDaT0Q.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"603692",
+         "name":"John Wick 4 ",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BjB5XE8gG%2F5hFiouKHyNCUi3goFDehq3XmAy8uSh5CnJhOa7fPViC0&image=https://static.esplay.one/movie/gallery/original/h8gHn0OzBoaefsYseUByqsmEDMY.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"840326",
+         "name":"Sisu",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19o8tPQxTyL8QU773OQ7Brk8W8zecBLyueqJxXLQFOtgyaCvG1VoR30&image=https://static.esplay.one/movie/gallery/original/94TIUEhuwv8PhdIADEvSuwPljS5.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 CAM"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"385687",
+         "name":"Rápidos y furiosos X",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX183jKHUFhjU%2FykCXYeYdpZubi5DcwRJV2zHQGxFgqMtkHiKzvJkgPcE&image=https://static.esplay.one/movie/gallery/original/cSWkX0fTjrBCU2sbEmyRFd1SxPA.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"620705",
+         "name":"Cráter: Un viaje inolvidable",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19I64qD6OmZTEQe045ZUJXFIJ4GHZsV%2Bu4L6E2YeQY2o5%2ByRQXclUYl&image=https://static.esplay.one/movie/gallery/original/mfPfFVhpnGp8bG4IUoBJPUs2xKj.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"649609",
+         "name":"Renfield",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F2fsw1QcY%2F9A9kNHOstw2ctMbU6jW7J8lKArTPuj7HJB5hsTmD078m&image=https://static.esplay.one/movie/gallery/original/sxePETTFyiFZaTqQZZrDgcNaTos.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/PAe0ynagv6AMHfh5HJ46hG6ujHgRhKdfWIj64ShLuF53edHklO86fgGER/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"447365",
+         "name":"Guardianes de la Galaxia: Volumen 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19VfPSVLH%2FgmLzJKr%2FOV%2FFMpR9HJ70s8QvAaYg5IUXT%2FGVI3Hqd5HyM&image=https://static.esplay.one/movie/gallery/original/rR1vGEC1csvWfQ9eLKsSWukfiLp.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 CAM"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"916224",
+         "name":"Suzume",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FPKLSeh1EZEKxC5K6DIp3r5QRrSWsgOUpYHDz8FV9EfsmyfxdI7fu%2B",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"934433",
+         "name":"Scream VI",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19eYbqKlPHfCU6IrcQMUW1kHgrUf%2BH%2FdxMjVcUN5DKwm4%2Fy9l0SVbc%2B",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"868759",
+         "name":"Ghosting",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://watchx.top/v/Nu1I8EqexJJQgDD4ghF5FG347BdFgJKiYF567fdHfDGH644gF46bV34B5B5V34/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FCeEAda3VezbNpes2%2FdfMMVSFtwFJ0zBKLNurLdFih9%2B76Xkv3UoQX",
+               "contentHost":"CASTELLANO",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"948713",
+         "name":"The Last Kingdom: Siete reyes deben morir",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19hh8uZZ3DO1rv4UDaK9gBVdqttZO4i8k%2BCiy2Uqr9BWRnvmBdGrpZr",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://streamsb.net/e/72s48pdewdi9.html",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"Server 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"502356",
+         "name":"La película de Super Mario Bros.",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18nyw5mjf%2FaNqJ3dWSsIpp8rMF%2BI1u%2FC6nDup6ag5i62kqjgq5XYqU4",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"736790",
+         "name":"Chupa",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FntUcHGnnwHW5HGiJoLK8HMfhxDj34L7BivCZEVcKNhIF%2FljDDnnrc",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"640146",
+         "name":"Ant-Man y la Avispa: Quantumanía",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FJ23%2Bzu43WnT6nvBOqUnSXS5a9KG5a%2Fe47TRGk7OPSG5InBmWnxdKb",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
+       {
+         "tmdb_id":"594767",
+         "name":"¡Shazam! Furia de los dioses",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18QRc4yJ7bDXN2%2FssiOpSxG2DLhqKffFtluVJYCUH5%2F8l5Sb%2BP9WQQy",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZUwqLnADANVmF+ralkR0+58exqhzoqKOyNiwWYF9LEjsFGy4RSeCBSY/2EvNmum4uvWeBgqtWaurrGKtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"1067282",
+         "name":"Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://www.yourupload.com/embed/h0TNEuO07eI0",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://terabox.com/sharing/embed?surl=EoHiYgejb6nBu0Fy3mDDaQ&resolution=1080&autoplay=true&mute=false&uk=4399467314851&fid=545733743772189",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"5175",
+         "name":"Una Pareja Explosiva 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://api.mycdn.moe/video/tt0266915/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjYwOTk=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"5174",
+         "name":"Una Pareja Explosiva 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjgxMjQ=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"438631",
+         "name":"Dune",
+         "links":[
+            {
+               "quality":"SD",
+               "url":"https://reddit.com",
+               "contentHost":"DoodStream",
+               "contentSize":"800 MB"
+            },
+            {
+               "quality":"4K",
+               "url":"https://instagram.com",
+               "contentHost":"Private",
+               "contentSize":"1000 MB"
+            }
+         ]
+      }
+   ]
+}
